@@ -331,11 +331,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 🐛 **Bug Reports**: Report issues on [GitHub Issues](https://github.com/your-org/paal-system/issues)
 - 📧 **Email Support**: contact@paal-system.org
 
-### Emergency Support
 
-For critical security issues or system outages:
-- 🚨 **Security Issues**: security@paal-system.org
-- 📞 **24/7 Support**: +1-800-PAAL-911 (production deployments)
 
 ---
 
